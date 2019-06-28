@@ -1,7 +1,7 @@
 **Shopee**
 ![Github Logo](pic/Shopee_๑๙๐๖๒๘_0001.jpg)
 
-![test](pic/Shopee_๑๙๐๖๒๘_0001.jpg) with <img src="pic/Shopee_๑๙๐๖๒๘_0001.jpg" width="100" height="100">
+![test](pic/Shopee_๑๙๐๖๒๘_0001.jpg) <img src="pic/Shopee_๑๙๐๖๒๘_0001.jpg" width="100" height="100">
 
 * Shopee เป็นตลาดซื้อขายแบบโซเชียลที่มุ่งเน้นการใช้งานผ่านโทรศัพท์มือถืออันดับแรก (Mobile First)
  เพื่อให้ทุกคนสามารถเลือกดูและซื้อขายได้อย่างสะดวก โดยเป็นแพลตฟอร์มที่ออกแบบขึ้นเพื่อชาวเอเชียตะวันออกเฉียงใต้
