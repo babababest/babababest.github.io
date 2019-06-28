@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="460" height="300" src="pic/shopee-logo.jpg">
+  <img height="200" src="pic/shopee-logo.jpg">
 </p>
 **Shopee**
 
