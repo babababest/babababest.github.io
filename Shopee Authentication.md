@@ -52,3 +52,4 @@
 **Referance :**
  - https://www.sanook.com/money/524013/
  - https://help.shopee.co.th/th/s/
+ - https://www.mindphp.com/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%A1%E0%B8%B7%E0%B8%AD/73-%E0%B8%84%E0%B8%B7%E0%B8%AD%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3/4703-meaning-of-the-word-authentication-in-terms-of-computer.html
