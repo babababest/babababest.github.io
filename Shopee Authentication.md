@@ -1,8 +1,7 @@
-
+<p align="center">
+  <img width="460" height="300" src="pic/shopee-logo.jpg">
+</p>
 **Shopee**
-
-
-
 
 <img src="pic/Shopee_๑๙๐๖๒๘_0001.jpg" width="300">
 
