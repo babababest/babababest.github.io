@@ -4,7 +4,7 @@
 ![test](pic/Shopee_๑๙๐๖๒๘_0001.jpg =250x250)
 
 <p align="center">
-  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
+  <img width="460" height="300" src=(pic/Shopee_๑๙๐๖๒๘_0001.jpg)>
 </p>
 
 * Shopee เป็นตลาดซื้อขายแบบโซเชียลที่มุ่งเน้นการใช้งานผ่านโทรศัพท์มือถืออันดับแรก (Mobile First)
