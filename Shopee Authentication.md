@@ -1,7 +1,7 @@
 **Shopee**
 ![Github Logo](pic/Shopee_๑๙๐๖๒๘_0001.jpg)
 
-![test](pic/Shopee_๑๙๐๖๒๘_0001.jpg){:height="50%" width="50%"}
+![test](pic/Shopee_๑๙๐๖๒๘_0001.jpg){:class="img-responsive"}
 
 <p align="center">
   <img width="870" height="1884" (pic/Shopee_๑๙๐๖๒๘_0002.jpg)>
